@@ -1,0 +1,36 @@
+.body {
+    background-color: #808080;
+}
+
+.B {
+    background-color: white;
+    height: 500px;
+    width: 50vh;
+    border: 10px black dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.C {
+
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+}
+
+.D {
+    background-color: rgba(194, 128, 6, 0.849);
+    height: 100px;
+    width: 30%;
+}
+
+.E {
+    background-color: rgb(10, 192, 10);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    border-top: 50px;
+    border-left: 50px;
+}
